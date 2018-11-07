@@ -1,5 +1,5 @@
 # laravel-countries-seeder-with-phonecode
-Lavarel Countries Seeder with iso and country phone code
+Lavarel Countries Seeder with iso and country Telephone dialing code
 
 Seed and migration files. 
 
